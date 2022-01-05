@@ -1,1 +1,1 @@
-# simpsons-classification
+# Simpsons Classification
